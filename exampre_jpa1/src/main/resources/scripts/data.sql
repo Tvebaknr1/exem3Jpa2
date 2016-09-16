@@ -1,0 +1,10 @@
+-- Drop DATABASE jpabasics1 ;
+-- CREATE DATABASE jpabasics1 ;
+-- -- DROP TABLE if exists BOOK;
+-- -- CREATE TABLE BOOK;
+-- USE jpabasics1;
+-- CREATE TABLE BOOK;
+-- INSERT INTO BOOK (ID, TITLE) VALUES (null, 'book-3');
+-- SET @book1 = LAST_INSERT_ID();
+-- INSERT INTO BOOK (ID, TITLE) VALUES (null, 'book-4');
+-- SET @book2 = LAST_INSERT_ID();
